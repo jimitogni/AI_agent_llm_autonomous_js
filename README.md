@@ -1,5 +1,3 @@
-# sqlitecrud
+# AI_agent_llm_autonomous_js
 
-Crud offline simples com SQLite
-
-A simple CRUD offline with SQLite
+AI agent llm autonomous with js
